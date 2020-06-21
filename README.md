@@ -1,4 +1,4 @@
-# MyYogini
+# My Yogini
 An app that goes with you to the gym and diagnoses your yoga pose. It gives you corrections and tracks your style progess. This is the ultimate exercise app since it gives you a personalized target pose. Ideally, it will learn over time your particular limitations and not push you so hard that you get injured. 
 Being an Edge Application, **MyYogini** will evaluate the yoga poses of the individuals in real-time and provide them continuous feedback using AI at edge compute nodes.  This application is based on multi-person 2D pose estimation algorithm. Thanks to the optimizations done using the OpenVINO toolkit, **MyYogini** app is designed to be responsive enough to give real-time feedback to the user about the correctness of their pose. 
 
