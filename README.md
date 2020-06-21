@@ -280,3 +280,6 @@ personalized pose. Also, if the user has any limitations due to injury or lack o
 ### Reference flipping and lower limb confusion
 One limitation in the current implementation is that the app doesn't detect if the side of the user is the same as that of the reference Guru. Furthermore, when the side is detected, the app should be flexible about which leg is at the front and which is at the back.
 [Update: leg flexbility now resolved]
+
+## License
+This project is licensed under the GPL License - see the [LICENSE.md](https://github.com/MahamArif/my-yogini/blob/master/LICENSE) file for details.
